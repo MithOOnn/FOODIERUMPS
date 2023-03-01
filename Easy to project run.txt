@@ -1,0 +1,4 @@
+D:\project(create a folder in D which name is project)
+Then
+All file copy to here  ^
+                       |
